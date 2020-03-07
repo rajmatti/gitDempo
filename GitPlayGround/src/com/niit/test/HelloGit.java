@@ -1,6 +1,6 @@
-package org.raj.demo;
+package com.niit.test;
 
-public class GitTest {
+public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git");
